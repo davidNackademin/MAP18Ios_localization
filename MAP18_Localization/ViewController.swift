@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController {
 
     @IBOutlet weak var myLabel: UILabel!
-    var isPressed = false // very important variable
+    var isPressed = false // is button pressed?
     
     
     override func viewDidLoad() {

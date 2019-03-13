@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController {
 
     @IBOutlet weak var myLabel: UILabel!
-    var isPressed = false
+    var isPressed = false // very important variable
     
     
     override func viewDidLoad() {

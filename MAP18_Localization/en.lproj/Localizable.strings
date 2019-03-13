@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  MAP18_Localization
+
+  Created by David Svensson on 2019-03-13.
+  Copyright © 2019 David Svensson. All rights reserved.
+*/
+
+"button_pressed" = "Button pressed";
+
+"my_label" = "My label";
